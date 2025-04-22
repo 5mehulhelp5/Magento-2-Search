@@ -1,4 +1,6 @@
-# Version 1.0.45
+# Version 1.0.46
+## 1.0.46 - Apr 22, 2025
+- Upgrade handlebar version to the latest
 ## 1.0.45 - Mar 19, 2025
 - Disabled all plugin analytics event if V2 analytics is enabled
 ## 1.0.44 - Mar 11, 2025
